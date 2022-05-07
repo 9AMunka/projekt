@@ -1,0 +1,65 @@
+body{
+    background-image: url(kepek/hatter_kep.webp);
+    margin: auto;
+}
+
+.dt{
+    background-color: rgba(255, 255, 255, 0.8);
+    font-style: italic;
+    text-align: center;
+}
+
+
+.back
+{
+    line-height: 1.6em;
+    background-color: rgba(255, 255, 255, 0.8);
+    
+}
+
+.back1
+{
+    line-height: 1.6em;
+    background-color: rgba(255, 255, 255, 0.8);
+    
+}
+
+.back2
+{
+    line-height: 1.6em;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+
+.kep{
+    height: auto;
+    width: auto;
+
+
+}
+
+h2{
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+    padding: 10px;
+}
+
+p{
+    border-left: solid 5px gray;
+    border-right: solid 5px gray;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.navbar{
+    background-color: black;
+    color:white;
+    
+}
+
+footer{
+    background-color: darkblue;
+    color:white;
+}
